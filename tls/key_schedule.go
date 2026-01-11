@@ -12,7 +12,7 @@ import (
 	"io"
 	"math/big"
 
-	jsonKeys "github.com/zmap/zcrypto/json"
+	jsonKeys "github.com/qizsecurity/zcrypto/json"
 	"golang.org/x/crypto/cryptobyte"
 	"golang.org/x/crypto/curve25519"
 	"golang.org/x/crypto/hkdf"

@@ -27,8 +27,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/zmap/zcrypto/internal/cpu"
-	"github.com/zmap/zcrypto/x509"
+	"github.com/qizsecurity/zcrypto/internal/cpu"
+	"github.com/qizsecurity/zcrypto/x509"
 )
 
 const (

@@ -7,7 +7,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/zmap/zcrypto/x509"
+	"github.com/qizsecurity/zcrypto/x509"
 )
 
 const exampleCertWithOCSPDelegation = `

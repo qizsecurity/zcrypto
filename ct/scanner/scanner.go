@@ -9,12 +9,12 @@ import (
 	"sync/atomic"
 	"time"
 
+	"github.com/qizsecurity/zcrypto/ct"
+	"github.com/qizsecurity/zcrypto/ct/client"
+	"github.com/qizsecurity/zcrypto/ct/x509"
+	"github.com/qizsecurity/zcrypto/encoding/asn1"
+	"github.com/qizsecurity/zcrypto/x509/pkix"
 	log "github.com/sirupsen/logrus"
-	"github.com/zmap/zcrypto/ct"
-	"github.com/zmap/zcrypto/ct/client"
-	"github.com/zmap/zcrypto/ct/x509"
-	"github.com/zmap/zcrypto/encoding/asn1"
-	"github.com/zmap/zcrypto/x509/pkix"
 )
 
 // ASN1Certificate holds the top-level asn1 fields in a certificate.

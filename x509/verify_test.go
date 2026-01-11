@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/zmap/zcrypto/x509/pkix"
+	"github.com/qizsecurity/zcrypto/x509/pkix"
 )
 
 type verifyTest struct {

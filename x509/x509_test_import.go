@@ -17,8 +17,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/zmap/zcrypto/x509"
-	"github.com/zmap/zcrypto/x509/pkix"
+	"github.com/qizsecurity/zcrypto/x509"
+	"github.com/qizsecurity/zcrypto/x509/pkix"
 )
 
 func main() {

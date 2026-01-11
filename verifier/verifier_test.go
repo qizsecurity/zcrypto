@@ -26,11 +26,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/zmap/zcrypto/x509"
-	"github.com/zmap/zcrypto/x509/revocation/google"
-	"github.com/zmap/zcrypto/x509/revocation/mozilla"
+	"github.com/qizsecurity/zcrypto/x509"
+	"github.com/qizsecurity/zcrypto/x509/revocation/google"
+	"github.com/qizsecurity/zcrypto/x509/revocation/mozilla"
 
-	data "github.com/zmap/zcrypto/data/test/certificates"
+	data "github.com/qizsecurity/zcrypto/data/test/certificates"
 )
 
 func loadPEMs(pems []string) (out []*x509.Certificate) {

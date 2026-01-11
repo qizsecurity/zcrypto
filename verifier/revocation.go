@@ -10,10 +10,10 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/zmap/zcrypto/x509"
-	"github.com/zmap/zcrypto/x509/pkix"
-	"github.com/zmap/zcrypto/x509/revocation/crl"
-	"github.com/zmap/zcrypto/x509/revocation/ocsp"
+	"github.com/qizsecurity/zcrypto/x509"
+	"github.com/qizsecurity/zcrypto/x509/pkix"
+	"github.com/qizsecurity/zcrypto/x509/revocation/crl"
+	"github.com/qizsecurity/zcrypto/x509/revocation/ocsp"
 )
 
 const (

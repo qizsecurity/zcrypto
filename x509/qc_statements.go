@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/zmap/zcrypto/encoding/asn1"
+	"github.com/qizsecurity/zcrypto/encoding/asn1"
 )
 
 type QCStatementASN struct {
