@@ -13,11 +13,11 @@ import (
 	_ "crypto/sha256"
 	_ "crypto/sha512"
 
-	"github.com/zmap/zcrypto/dsa"
+	"github.com/qizsecurity/zcrypto/dsa"
 
 	// START CT CHANGES
-	"github.com/zmap/zcrypto/ct/asn1"
-	"github.com/zmap/zcrypto/ct/x509/pkix"
+	"github.com/qizsecurity/zcrypto/ct/asn1"
+	"github.com/qizsecurity/zcrypto/ct/x509/pkix"
 
 	// END CT CHANGES
 	"encoding/base64"

@@ -9,10 +9,10 @@ import (
 	"unicode/utf16"
 	"unicode/utf8"
 
-	"github.com/zmap/zcrypto/cryptobyte"
-	cryptobyte_asn1 "github.com/zmap/zcrypto/cryptobyte/asn1"
-	"github.com/zmap/zcrypto/encoding/asn1"
-	"github.com/zmap/zcrypto/x509/pkix"
+	"github.com/qizsecurity/zcrypto/cryptobyte"
+	cryptobyte_asn1 "github.com/qizsecurity/zcrypto/cryptobyte/asn1"
+	"github.com/qizsecurity/zcrypto/encoding/asn1"
+	"github.com/qizsecurity/zcrypto/x509/pkix"
 )
 
 const x509v2Version = 1

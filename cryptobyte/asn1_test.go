@@ -11,8 +11,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/zmap/zcrypto/cryptobyte/asn1"
-	encoding_asn1 "github.com/zmap/zcrypto/encoding/asn1"
+	"github.com/qizsecurity/zcrypto/cryptobyte/asn1"
+	encoding_asn1 "github.com/qizsecurity/zcrypto/encoding/asn1"
 )
 
 type readASN1Test struct {

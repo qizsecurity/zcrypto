@@ -13,7 +13,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/zmap/zcrypto/x509"
+	"github.com/qizsecurity/zcrypto/x509"
 )
 
 // Provider specifies CRLSet provider interface

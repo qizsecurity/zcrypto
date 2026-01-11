@@ -30,9 +30,9 @@ import (
 	"golang.org/x/crypto/curve25519"
 	"golang.org/x/crypto/ed25519"
 
-	"github.com/zmap/zcrypto/dsa"
-	"github.com/zmap/zcrypto/encoding/asn1"
-	"github.com/zmap/zcrypto/x509/pkix"
+	"github.com/qizsecurity/zcrypto/dsa"
+	"github.com/qizsecurity/zcrypto/encoding/asn1"
+	"github.com/qizsecurity/zcrypto/x509/pkix"
 )
 
 func TestParsePKCS1PrivateKey(t *testing.T) {

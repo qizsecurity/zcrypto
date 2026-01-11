@@ -26,7 +26,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/zmap/zcrypto/x509"
+	"github.com/qizsecurity/zcrypto/x509"
 )
 
 func init() {

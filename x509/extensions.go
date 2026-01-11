@@ -11,9 +11,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/zmap/zcrypto/encoding/asn1"
-	"github.com/zmap/zcrypto/x509/ct"
-	"github.com/zmap/zcrypto/x509/pkix"
+	"github.com/qizsecurity/zcrypto/encoding/asn1"
+	"github.com/qizsecurity/zcrypto/x509/ct"
+	"github.com/qizsecurity/zcrypto/x509/pkix"
 )
 
 var (

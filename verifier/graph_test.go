@@ -22,9 +22,9 @@ import (
 	"testing"
 	"testing/iotest"
 
-	"github.com/zmap/zcrypto/x509"
+	"github.com/qizsecurity/zcrypto/x509"
 
-	data "github.com/zmap/zcrypto/data/test/certificates"
+	data "github.com/qizsecurity/zcrypto/data/test/certificates"
 )
 
 type edgeIdx struct {

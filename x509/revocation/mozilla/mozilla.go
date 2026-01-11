@@ -12,9 +12,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/zmap/zcrypto/encoding/asn1"
-	"github.com/zmap/zcrypto/x509"
-	"github.com/zmap/zcrypto/x509/pkix"
+	"github.com/qizsecurity/zcrypto/encoding/asn1"
+	"github.com/qizsecurity/zcrypto/x509"
+	"github.com/qizsecurity/zcrypto/x509/pkix"
 )
 
 // Provider specifies OneCRL provider interface

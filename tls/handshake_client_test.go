@@ -24,7 +24,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/zmap/zcrypto/x509"
+	"github.com/qizsecurity/zcrypto/x509"
 )
 
 // Note: see comment in handshake_test.go for details of how the reference
